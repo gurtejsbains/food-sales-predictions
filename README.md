@@ -1,5 +1,5 @@
 # food-sales-predictions
-- Gurtej Bains
+ Gurtej Bains
 ## Loading Data 
 ## Cleaning Data 
 ## Exploratory Visuals 
