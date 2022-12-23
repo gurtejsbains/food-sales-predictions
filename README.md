@@ -1,11 +1,12 @@
-# Title that recommends an action
+# Predicting Grocery Sales
 ## Subtitle describing the analysis 
 
-**Author**: 
+**Author**: Gurtej Bains 
+**Data Source**: https://data.world/makeovermonday/2019w46 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+sales prediction by building two different models and deciding which one to recommend.
 
 
 ### Data:
