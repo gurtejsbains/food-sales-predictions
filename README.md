@@ -1,53 +1,24 @@
+<p align = "center"> 
+  <img src = "https://github.com/gurtejsbains/sales-predictions/blob/1f2624e8eb600e0e1c7670cdf89dbeb4e1bbc2f2/Stock%20Image%20Sales%20Prediction.png">
+</p>
+
 # Predicting Grocery Sales
-## Subtitle describing the analysis 
+## Predicting grocery sales for BigMart grocery chain 
 
 **Author**: Gurtej Bains 
 **Data Source**: https://data.world/makeovermonday/2019w46 
 
 ### Business problem:
-
 sales prediction by building two different models and deciding which one to recommend.
 
-
-### Data:
-Data can include source and high-level description (e.g. # obs)
+### Data Dictionary:
+<p align = "center"> 
+  <img src = "https://github.com/gurtejsbains/sales-predictions/blob/1f2624e8eb600e0e1c7670cdf89dbeb4e1bbc2f2/Data%20Dictionary%20for%20Grocery%20Store%20Sales%20Prediction%20Data.png">
+</p>
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+A Multiple Regression Model and two Decision Tree Models were used to predict sales. 
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
-
-
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
-
-> Sentence about visualization.
-
-#### Visual 2 Title
-
-## Model
-
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
-
-## Recommendations:
-
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
-
-
-### For further information
-
-
-For any additional questions, please contact **email**
+The Tuned Decision Tree Model is the best model. It is stable as does not have high bias or high varaince. MAE and RMSE is also good as sales predictions are off by approximatly Rs. 1,000
