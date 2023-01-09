@@ -24,7 +24,7 @@ Some important call outs:
 https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png
 
 2. Average outlet sales for Super Market Type 3 is the highest.
-https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png 
+outlet identifier.png  
 
 ## Methods
 A Multiple Regression Model and two Decision Tree Models were used to predict sales. 
