@@ -27,11 +27,14 @@ Some important call outs:
 
 2. Average outlet sales for Super Market Type 3 is the highest.
 <p align = "center"> 
-  <img src = "https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png">
+  <img src = "https://github.com/gurtejsbains/food-sales-predictions/blob/73bf90ca980254b00fafb014fb9a3e506539ca37/outlet%20type.png">
 </p>  
 
 ## Methods
-A Multiple Regression Model and two Decision Tree Models were used to predict sales. 
+A Multiple Regression Model and two Decision Tree Models were used to predict sales. Tuned Decision Tree Model performed best in predicting sales with r square of the test segment at 59%. 
 
 ## Results
 The Tuned Decision Tree Model is the best model. It is stable as does not have high bias or high varaince. MAE and RMSE is also good as sales predictions are off by approximatly Rs. 1,000
+
+## Recomendations
+Add more data and build a more sophisticated model as R square can be improved 
