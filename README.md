@@ -5,7 +5,7 @@
 # Predicting Grocery Sales
 ## Predicting grocery sales for BigMart grocery chain 
 
-**Author**: Gurtej Bains 
+**Author**: Gurtej Bains /n
 **Data Source**: https://data.world/makeovermonday/2019w46 
 
 ### Business problem:
