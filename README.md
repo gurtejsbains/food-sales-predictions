@@ -8,14 +8,23 @@
 **Author**: Gurtej Bains 
 **Data Source**: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ 
 
-### Business problem:
-Sales prediction by building two different models and deciding which one to recommend.
+### Business Problem:
+1. Help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
+2. Sales prediction by building two different models and deciding which one to recommend.
 
 ### Data Dictionary:
 <p align = "center"> 
   <img src = "https://github.com/gurtejsbains/sales-predictions/blob/1f2624e8eb600e0e1c7670cdf89dbeb4e1bbc2f2/Data%20Dictionary%20for%20Grocery%20Store%20Sales%20Prediction%20Data.png">
 </p>
 
+## Overview
+The dataset contain data for 10 stores and more than 1,500 products. Stores opened between 1985 and 2009. The data was collected in 2013 and has 12 columns with 8,523 records. 
+Some important call outs: 
+1. Average outlet sales for Outlet 27 is the highest. 
+https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png
+
+2. Average outlet sales for Super Market Type 3 is the highest.
+https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png 
 
 ## Methods
 A Multiple Regression Model and two Decision Tree Models were used to predict sales. 
