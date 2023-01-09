@@ -21,7 +21,9 @@
 The dataset contain data for 10 stores and more than 1,500 products. Stores opened between 1985 and 2009. The data was collected in 2013 and has 12 columns with 8,523 records. 
 Some important call outs: 
 1. Average outlet sales for Outlet 27 is the highest. 
-https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png
+<p align = "center"> 
+  <img src = "https://github.com/gurtejsbains/food-sales-predictions/blob/d6d6e8fa5db851b2734aa983c5358759af8e09bb/outlet%20identifier.png">
+</p>  
 
 2. Average outlet sales for Super Market Type 3 is the highest.
 <p align = "center"> 
