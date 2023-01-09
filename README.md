@@ -5,11 +5,11 @@
 # Predicting Grocery Sales
 ## Predicting grocery sales for BigMart grocery chain 
 
-**Author**: Gurtej Bains /n
-**Data Source**: https://data.world/makeovermonday/2019w46 
+**Author**: Gurtej Bains 
+**Data Source**: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ 
 
 ### Business problem:
-sales prediction by building two different models and deciding which one to recommend.
+Sales prediction by building two different models and deciding which one to recommend.
 
 ### Data Dictionary:
 <p align = "center"> 
